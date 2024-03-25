@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\vuz\\corp\\2-3\\2-3.csproj": {}
+    "D:\\vuz\\corp\\2-3\\corp-3\\2-3.csproj": {}
   },
   "projects": {
-    "d:\\vuz\\corp\\2-3\\2-3.csproj": {
+    "D:\\vuz\\corp\\2-3\\corp-3\\2-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\vuz\\corp\\2-3\\2-3.csproj",
+        "projectUniqueName": "D:\\vuz\\corp\\2-3\\corp-3\\2-3.csproj",
         "projectName": "2-3",
-        "projectPath": "d:\\vuz\\corp\\2-3\\2-3.csproj",
+        "projectPath": "D:\\vuz\\corp\\2-3\\corp-3\\2-3.csproj",
         "packagesPath": "C:\\Users\\hayvl\\.nuget\\packages\\",
-        "outputPath": "d:\\vuz\\corp\\2-3\\obj\\",
+        "outputPath": "D:\\vuz\\corp\\2-3\\corp-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hayvl\\AppData\\Roaming\\NuGet\\NuGet.Config"

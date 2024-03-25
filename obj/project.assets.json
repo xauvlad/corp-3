@@ -2827,11 +2827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vuz\\corp\\2-3\\2-3.csproj",
+      "projectUniqueName": "D:\\vuz\\corp\\2-3\\corp-3\\2-3.csproj",
       "projectName": "2-3",
-      "projectPath": "D:\\vuz\\corp\\2-3\\2-3.csproj",
+      "projectPath": "D:\\vuz\\corp\\2-3\\corp-3\\2-3.csproj",
       "packagesPath": "C:\\Users\\hayvl\\.nuget\\packages\\",
-      "outputPath": "D:\\vuz\\corp\\2-3\\obj\\",
+      "outputPath": "D:\\vuz\\corp\\2-3\\corp-3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hayvl\\AppData\\Roaming\\NuGet\\NuGet.Config"

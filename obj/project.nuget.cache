@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xvhNX5UncYztlYA8NxzS9YeC/EPl0HXtgUxPldin0HjNd5MbIDi/AiA66NGRn5NVVzfpl38Rg6P2jUZKqLQPgA==",
+  "dgSpecHash": "iljXax3H0WS1FhH9+/fGyEIp4SrvTCjw6+eqmXLbzBLh/DblqKA31d6TnosQD8Pi3dF2HrnxcI4Rsilnkm2uGg==",
   "success": true,
-  "projectFilePath": "d:\\vuz\\corp\\2-3\\2-3.csproj",
+  "projectFilePath": "D:\\vuz\\corp\\2-3\\corp-3\\2-3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hayvl\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hayvl\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
